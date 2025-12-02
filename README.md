@@ -102,30 +102,6 @@ Key findings:
 
 ---
 
-## 📁 Suggested Folder Structure
-
-```bash
-song-popularity-ml/
-├── README.md
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   └── 04_modelling_random_forest.ipynb
-├── src/
-│   ├── data_cleaning.py
-│   ├── mood_classification.py
-│   └── model_training.py
-├── data/
-│   └── (links or instructions – raw data not uploaded)
-└── outputs/
-    ├── plots/
-    ├── feature_importance.png
-    └── eda_charts/
-```
-
----
-
 ## 📬 Contact
 
 Questions about the project or dataset?  
